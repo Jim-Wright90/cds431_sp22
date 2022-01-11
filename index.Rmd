@@ -1,0 +1,14 @@
+---
+title: "CDS 431: Beginning Clinical Methods"
+---
+
+## **COURSE OVERVIEW**
+
+In this course, basic clinical methods related to evidence-based assessment (reviewing case information, planning assessment, and interpreting assessment findings) and intervention (treatment planning, treatment analysis, measuring outcomes, referral, and service delivery) will be discussed in a seminar format.  Students will complete case study assignments that allow them to apply information learned in class to real-life clinical applications, such as reading and reviewing clinical paperwork, planning treatment, writing lesson plans, analyzing session data, and writing treatment notes.  Students will have the opportunity to collect approximately 5 clinical observation hours through in-class video observation. Other options for obtaining observation hours will be discussed in class.
+
+This is an upper-level course intended for Communication Disorders and Sciences (CDS) majors in their senior year and post-baccalaureate students.  Speech Pathology/Audiology as a Profession (CDS 430) is a pre-requisite for this course.  It is also recommended that students take CDS 450 (Introduction to Language Disorders), CDS 444 (Phonetics), and CDS 460 (Developmental Disorders of Communication) before taking this course.  Please inform the instructor if you are an undergraduate student and you have not completed these courses (it is understood that post-baccalaureate students may not have had all of these courses).  
+
+
+```{r, include=FALSE}
+#rmarkdown::render_site()
+```

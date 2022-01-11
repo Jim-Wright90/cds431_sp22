@@ -1,0 +1,86 @@
+---
+title: "Assignments"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Terms and Definitions 
+
+  * **This assignment is required to pass the course**
+  * Students will complete this [document](handouts/Terms and Definitions Worksheet_blank.docx) during class
+  * Terms are indicated in purple in the PowerPoint
+  * You must have at least 50 terms/definitions by the end of the term
+
+**Due:** 6/3/22 
+
+# Case Study: In-Class Activities 
+
+  * **This assignment is required to pass the course**
+  * Activities will primarily be completed during class time
+  * Students will complete activities in this [document](handouts/In-Class Activities 2022.docx)
+  * At the end of the term, enter the total number of activities you completed and upload your packet to Canvas
+  * Activities 5 and 21 are reading only 
+  * Activity 24 will be submitted as part of Assignment 2 and uploaded to Canvas separately 
+  * Total number of possible points for completing remaining in-class assignments: 27
+  
+ **Due:** 6/3/22
+  
+# Out-of-Class Assignments 
+
+  * **These four assignments are required to pass the course**
+  * All assignments should be typed and submitted to Canvas
+  * Combined possible points of all four assignments: 75 points
+
+## Assignment 1: Designing an Assessment 
+
+  * [Assignment 1 Description and Scoring Rubric](assignments/Assignment 1.docx)
+  * Possible Points: 25
+  * **Due:** 4/21/22
+
+## Assignment 2: Lesson Plan
+
+  * [Assignment 2 Description and Scoring Rubric](assignments/Assignment 2.docx)
+  * Possible Points: 18
+  * **Due:** 5/10/22
+
+## Assignment 3: Data Collection Form
+
+  * [Assignment 3 Description and Scoring Rubric](assignments/Assignment 3.docx)
+  * Possible Points: 14
+  * **Due:** 5/17/22
+
+## Assignment 4: SOAP Note
+
+  * [Assignment 4 Description and Scoring Rubric](assignments/Assignment 4.docx)
+  * Possible Points: 18
+  * **Due:** 5/24/22
+  
+# Group Participation Feedback 
+
+Group participation is an important part of this course.  As a speech-language pathologist, you will also need to communicate clearly and collaborate with colleagues and clients.  
+
+Participation points will be part of your grade.  I will average the participation points awarded by your group members and add point(s) for whole group participation (up to 2 points). Whole group participation could include:  being the reporter for your breakout group; responding to questions; asking questions; or making comments.
+
+
+  * **This assignment is required to pass the course**
+  * [Midterm rating rubric](handouts/midterm group instructions.docx)
+  * [Midterm participation rating form](handouts/Group Participation Feedback Midterm.docx) - **Due: 4/26/22**
+  * [Final rating rubric](handouts/final group instructions.docx)
+  * [Final participation rating form](handouts/Group Participation Feedback Final.docx) - **Due: 6/3/22**
+  
+
+# Quizzes 
+
+  * **This assignment is required to pass the course**
+  * A total of 16 quizzes will be posted on Canvas 
+  * Each quiz reflects content covered in class and will be open in Canvas from 10:00 AM to 10:00 PM on the day of class
+
+# CDS 431 Observation Hour Log
+
+An Observation Hours Log for CDS 431 will be made available for students to log their hours week 10 of the term.  More information will be presented in class. 
+
+# Other Observation Documentation (Optional)
+
+If you complete virtual observations through the HEDCO Learning Commons, you may present documentation to me for signing. Only logs with complete documentation will be signed. If you complete observations outside of the UO, the certified SLP that you observed will sign your log. You are responsible for maintaining logs of observations completed outside of this class. If you decide to use Master Clinician Network (fee-based online service for observations), I can approve those observations through June 30, 2022.
