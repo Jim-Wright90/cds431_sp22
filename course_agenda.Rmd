@@ -21,7 +21,7 @@ title: "Course Agenda"
 | 8        | 5/17       | [Ongoing Progress Monitoring](slides/cds431_week8_1.pptx) | Activity #27*    | Quiz 13; [**Assignment #3 Due by 5:00 PM**](assignments/Assignment 3.docx) | 
 | 8        | 5/19       | [Service Delivery; Audiology Assessment](slides/cds431_week8_2.pptx) | Activities #28*, 29    | Quiz 14 | 
 | 9        | 5/24       | [Post-Intervention; Family Conference](slides/cds431_week9_1.pptx) | Activity #30    | Quiz 15; [**Assignment #4 Due by 5:00 PM**](assignments/Assignment 4.docx) | 
-| 9        | 5/26       | [Client Follow-up; Dismissal Decision Making; Troubleshooting Therapy](slides/cds431_week9_2.pptx) Sessions |     | Quiz 16 | 
+| 9        | 5/26       | [Client Follow-up; Dismissal Decision Making; Troubleshooting Therapy Sessions](slides/cds431_week9_2.pptx) |     | Quiz 16 | 
 | 10        | 5/31       | Ethics |     |  | 
 | 10        | 6/2       | Clinical Scenarios; Course Review |     |  | 
 | 10        | 6/3       |  |     | [**Due by 5:00 PM: Terms & Definitions](handouts/Terms and Definitions Worksheet_blank.docx); [In-Class Activities Packet](handouts/In-Class Activities 2022.docx); [Final Group Participation Feedback**](handouts/Group Participation Feedback Final.docx) | 
