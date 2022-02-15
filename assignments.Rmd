@@ -11,7 +11,7 @@ output:
   * **This assignment is required to pass the course**
   * Students will complete this [document](handouts/Terms and Definitions Worksheet_blank.docx) during class
   * Terms are indicated in purple in the PowerPoint
-  * You must have at least 50 terms/definitions by the end of the term
+  * You must have at least 40 terms/definitions by the end of the term
 
 **Due:** 6/3/22 
 
