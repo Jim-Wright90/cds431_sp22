@@ -57,18 +57,15 @@ output:
   * Possible Points: 18
   * **Due:** 5/24/22
   
-# Group Participation Feedback 
+# Course Surveys
 
-Group participation is an important part of this course.  As a speech-language pathologist, you will also need to communicate clearly and collaborate with colleagues and clients.  
-
-Participation points will be part of your grade.  I will average the participation points awarded by your group members and add point(s) for whole group participation (up to 2 points). Whole group participation could include:  being the reporter for your breakout group; responding to questions; asking questions; or making comments.
+XXX
 
 
   * **This assignment is required to pass the course**
-  * [Midterm rating rubric](handouts/midterm group instructions.docx)
-  * [Midterm participation rating form](handouts/Group Participation Feedback Midterm.docx) - **Due: 4/26/22**
-  * [Final rating rubric](handouts/final group instructions.docx)
-  * [Final participation rating form](handouts/Group Participation Feedback Final.docx) - **Due: 6/3/22**
+  * Surveys will be distributed via Qualtrics 
+  * Course pre survey due 3/31 at 5:00 PM
+  * Course post survey due 6/3 at 5:00 PM
   
 
 # Quizzes 

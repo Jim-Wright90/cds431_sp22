@@ -81,15 +81,15 @@ Students will be graded on the class attendance and completion of in-class activ
 
 | **Required Assignments** | **Possible Points** | **Due Date** | 
 | :----------------------  | :-----------------: | :----------: |
+| Course pre-survey                     | 4      | 3/31 5:00 PM |
 | Assignment 1: Designing an Assessment | 25     | 4/21 5:00 PM |
-| Midterm Group Participation Feedback  |  4     | 4/26 5:00 PM |
 | Assignment 2: Lesson Plan             | 18     | 5/10 5:00 PM |
 | Assignment 3: Data Collection Form    | 14     | 5/17 5:00 PM |
 | Assignment 4: SOAP Note               | 18     | 5/24 5:00 PM |
 | Terms & Definitions log - at least 50 entries | 10     | 6/3 5:00 PM |
 | In-Class Activities Packet | 27                | 6/3 5:00 PM  |
-| Final Group Participation Rating | 4           | 6/3 5:00 PM  |
-| Quizzes - must complete at least 12 | 16       |  TBA         |
+| Course post-survey                  | 4        | 6/3 5:00 PM  |
+| Quizzes                             | 16       |  TBA         |
 | **TOTAL POSSIBLE POINTS** | 136     |  |
 | **PASS** = completion of **all** assignments and earning at least 70% of total points (95) |     |  |
 
