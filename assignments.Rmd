@@ -59,10 +59,8 @@ output:
   
 # Course Surveys
 
-XXX
-
-
   * **This assignment is required to pass the course**
+  * There will be two pre surveys and one post survey designed to obtain information on student     preferences for methods to obtain class materials and communicate with the instructor
   * Surveys will be distributed via Qualtrics 
   * Course pre survey due 3/31 at 5:00 PM
   * Course post survey due 6/3 at 5:00 PM
