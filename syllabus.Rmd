@@ -15,7 +15,7 @@ output:
 * **Instructor:** Jim Wright, PhD, CCC-SLP
 	+ *email:* [jwrigh16@uoregon.edu](mailto:jwrigh16@uoregon.edu)
 	+ *office:* HEDDO 270
-	+ *office hours*: TBD
+	+ *office hours*: Tuesdays 10:00-11:30
 	+ *pronouns:* "Jim"; he/him/his
 	
 
@@ -55,7 +55,7 @@ Under the UO policy, each undergraduate credit should reflect approximately thir
 
 Course assignments will be posted on Canvas and discussed during class. An * indicates that the assignment is required to pass the course. The following includes basic information:
 
-  1. *Terms and Definitions: Students will complete this document during class.  Terms are indicated in purple in the PowerPoint.  You must have at least 50 terms/definitions by the end of the term.  You can print this form and handwrite the terms/definitions. Students will submit this document at the end of the term. 
+  1. *Terms and Definitions: Students will complete this document during class.  Terms are indicated in purple in the PowerPoint.  You must have at least 40 terms/definitions by the end of the term.  You can print this form and handwrite the terms/definitions. Students will submit this document at the end of the term. 
   2. *Case Study - In-Class Activities: For the most part, students will complete these activities during class.  You may print the document and handwrite answers during the class. Occasionally, you will be asked to finish activities outside of class. Students will submit this completed packet at the end of the term.
   3. *Out-of-Class Assignments: These four assignments will be completed independently outside of class and should be typed into a document (assignments in Canvas).  
   4. *Group Participation Feedback: You will complete this form at midterm and end of term. 
@@ -86,7 +86,7 @@ Students will be graded on the class attendance and completion of in-class activ
 | Assignment 2: Lesson Plan             | 18     | 5/10 5:00 PM |
 | Assignment 3: Data Collection Form    | 14     | 5/17 5:00 PM |
 | Assignment 4: SOAP Note               | 18     | 5/24 5:00 PM |
-| Terms & Definitions log - at least 50 entries | 10     | 6/3 5:00 PM |
+| Terms & Definitions log - at least 40 entries | 10     | 6/3 5:00 PM |
 | In-Class Activities Packet | 27                | 6/3 5:00 PM  |
 | Course post-survey                  | 4        | 6/3 5:00 PM  |
 | Quizzes                             | 16       |  TBA         |
