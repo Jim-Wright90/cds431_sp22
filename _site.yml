@@ -3,13 +3,17 @@ output_dir: '.'
 navbar:
   title: CDS 431
   left:
-  - text: Slides, Readings, & Schedule
+  - text: Schedule
     href: course_agenda.html
   - text: Assignments
     href: assignments.html
   right:
   - text: Syllabus
     href: syllabus.html
+  - icon: fa-video
+    href:  https://zoom.us/j/99167839253
+  - icon: fa-windows
+    href: https://teams.microsoft.com/l/team/19%3afnod-OCoK-cZ3ScbsT7JJ4YJ_dbpIVTX-wEFOW_NQ881%40thread.tacv2/conversations?groupId=1575e84b-0d5f-40ff-8390-2b478ea06ee8&tenantId=8f0b198f-f447-4cfe-ba03-526b46c661f8
   - icon: fa-github
     href: https://github.com/Jim-Wright90/cds431_spring2022.git
 output:

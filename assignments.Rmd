@@ -74,7 +74,7 @@ output:
 
 # CDS 431 Observation Hour Log
 
-An Observation Hours Log for CDS 431 will be made available for students to log their hours week 10 of the term.  More information will be presented in class. 
+[Observation log to track hours](handouts/Observation Log summary_update 2022.doc)
 
 # Other Observation Documentation (Optional)
 

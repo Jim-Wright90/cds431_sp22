@@ -10,5 +10,5 @@ This is an upper-level course intended for Communication Disorders and Sciences 
 
 
 ```{r, include=FALSE}
-rmarkdown::render_site()
+#rmarkdown::render_site()
 ```
