@@ -4,7 +4,9 @@ output:
   html_document:
     toc: true
     toc_float: true
+    number_sections: true
 ---
+
 
 ## CDS 431: Beginning Clinical Methods 
 
